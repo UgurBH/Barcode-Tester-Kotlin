@@ -1,0 +1,1 @@
+This project shows barcode decoding with Honeywell DataCollection SDK in Kotlin.

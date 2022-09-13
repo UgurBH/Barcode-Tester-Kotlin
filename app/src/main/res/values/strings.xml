@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BarcodeTester</string>
+    <string name="main_text_description">Please scan a barcode</string>
+    <string name="main_clear_button">Clear Output</string>
 </resources>
